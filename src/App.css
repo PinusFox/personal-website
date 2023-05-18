@@ -1,4 +1,9 @@
 .App {
-  width: auto;
-  height: auto;
+  width: 100vw;
+  height: 100vh;
+}
+
+#status {
+  text-align: center;
+  font-size: 30px;
 }
